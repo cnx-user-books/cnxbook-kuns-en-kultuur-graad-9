@@ -1,3 +1,49 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11066</md:content-id>  <md:title>Kuns en Kultuur Graad 9</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>af</md:language>              <md:uuid>3cf7e8f1-08df-4525-9b79-44ebf5ff638b</md:uuid>
-<md:slug>kuns-en-kultuur-graad-9</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Kwartaal 1</md:title>                                <col:content>                    <col:module document="m25290"/>                            <col:module document="m25291"/>                            <col:module document="m25292"/>                            <col:module document="m25303"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 2</md:title>                                <col:content>                    <col:module document="m25304"/>                            <col:module document="m25305"/>                            <col:module document="m25309"/>                            <col:module document="m25310"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 3</md:title>                                <col:content>                    <col:module document="m25311"/>                            <col:module document="m25312"/>                            <col:module document="m25313"/>                            <col:module document="m25509"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Kwartaal 4</md:title>                                <col:content>                    <col:module document="m25362"/>                            <col:module document="m25319"/>                            <col:module document="m25357"/>                            <col:module document="m25361"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11066</md:content-id>
+    <md:title>Kuns en Kultuur Graad 9</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>af</md:language>
+    <md:uuid>3cf7e8f1-08df-4525-9b79-44ebf5ff638b</md:uuid>
+    <md:slug>kuns-en-kultuur-graad-9</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Kwartaal 1</md:title>
+      <col:content>
+        <col:module document="m25290"/>
+        <col:module document="m25291"/>
+        <col:module document="m25292"/>
+        <col:module document="m25303"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 2</md:title>
+      <col:content>
+        <col:module document="m25304"/>
+        <col:module document="m25305"/>
+        <col:module document="m25309"/>
+        <col:module document="m25310"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 3</md:title>
+      <col:content>
+        <col:module document="m25311"/>
+        <col:module document="m25312"/>
+        <col:module document="m25313"/>
+        <col:module document="m25509"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Kwartaal 4</md:title>
+      <col:content>
+        <col:module document="m25362"/>
+        <col:module document="m25319"/>
+        <col:module document="m25357"/>
+        <col:module document="m25361"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
